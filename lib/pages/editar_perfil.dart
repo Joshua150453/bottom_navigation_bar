@@ -32,7 +32,7 @@ class _EditarPerfilScreenState extends State<EditarPerfilScreen> {
 
             const SizedBox(height: 20),
 
-            // Botón para guardar el nombre
+            // Botón para guardar el nombre correctamente
             ElevatedButton(
               onPressed: () {
                 // Devuelve el valor ingresado a la pantalla anterior
